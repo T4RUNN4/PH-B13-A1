@@ -208,8 +208,9 @@ header li {
 }
 
 .cta {
-    margin: 2px 120px 120px 120px;
+    margin: 2px 120px 0px 120px;
     background-color: #F7F6F2;
+    border-radius: 12px;
     text-align: center;
     padding: 80px 40px;
 }
