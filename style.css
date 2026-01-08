@@ -15,6 +15,7 @@
   border: none;
   border-radius: 5px;
   background-color: #30b868;
+  box-shadow: 0px 10px 20px 0px #00000043;
 }
 
 .btn-secondary {
@@ -119,6 +120,7 @@ header li {
   gap: 24px;
   border-radius: 8px;
   margin: 44px 120px;
+  padding-bottom: 20px;
 }
 
 .hero .bottom .card-container .card {
@@ -153,4 +155,75 @@ header li {
   font-size: 16px;
   line-height: 20px;
   color: #627382;
+}
+
+.knowledge {
+    padding: 120px;
+    display: flex;
+    gap: 60px;
+    align-items: center;
+}
+
+.knowledge .left img {
+    border-radius: 12px;
+}
+
+.knowledge .right .pretext {
+    font-size: 16px;
+    color: #03b868;
+    margin-bottom: 16px;
+}
+
+.knowledge .right h1 {
+    font-size: 48px;
+    color: #001931;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.knowledge .right p {
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+    margin-bottom: 40px;
+}
+
+.knowledge .right li {
+    list-style: none;
+    font-size: 16px;
+    color: #001931;
+    margin-bottom: 16px;
+}
+
+.knowledge .right li::before {
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-image: url("./assets/CheckCircle.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.cta {
+    margin: 2px 120px 120px 120px;
+    background-color: #F7F6F2;
+    text-align: center;
+    padding: 80px 40px;
+}
+
+.cta h2 {
+    font-weight: bold;
+    color: #001931;
+    font-size: 40px;
+}
+
+.cta p {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    color: #627382;
+    line-height: 24px;
+    font-size: 16px;
 }
