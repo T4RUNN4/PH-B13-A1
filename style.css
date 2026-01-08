@@ -81,8 +81,8 @@ header li {
   margin-bottom: 16px;
   display: flex;
   gap: 6px;
-  justify-content: center;
   align-content: center;
+  justify-content: center;
 }
 
 .hero .top .early img {
