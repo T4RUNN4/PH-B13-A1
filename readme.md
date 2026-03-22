@@ -8,7 +8,7 @@
 
 <br>
 
-<p style="text-align: justify;">This was the first assignment assigned to me as thepart of the course where I was provided with a Figma file and my goal was to create the UI as identical as possible to the Figma using raw HTML and CSS.<p>
+<p style="text-align: justify;">This was the first assignment assigned to me as the part of the course where I was provided with a Figma file and my goal was to create the UI as identical as possible to the Figma using raw HTML and CSS.<p>
 <p style="text-align: justify;">I was successfully able to recreate the UI and achieved max marks for the assignment</p>
 
 Projects Sneakpeak: <br>
@@ -24,4 +24,4 @@ Projects Sneakpeak: <br>
 
 <hr>
 
-If you have any suggestions or anything to say related to this project, let me know.
+If you have any query related to this project, let me know.
